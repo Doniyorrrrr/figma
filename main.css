@@ -134,3 +134,40 @@ padding: 20px;
     margin-top: 25px;
     margin-left: 20px;
 }
+.bacgraund2{
+    width: 1140px;
+    height: 600px;
+    background-image: url(./img/IMAGE\ \(34\).png);
+}
+.p6{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+text-align: start;
+color: #FFFFFF;
+
+
+}
+.p7{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+text-align: start;
+
+color: #C0C0C0;
+}
+.ota_p{
+    width: 279px;
+    height: 100px;
+    /* border: 1px solid; */
+    transform: translate(860px,220px);
+}

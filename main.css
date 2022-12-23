@@ -41,7 +41,7 @@ li{
 .img1{
     transform: translate(90px,-40px);
 }
-/* .bacground{
+.bacground{
     width: 1140px;
     height: 716px;
     
@@ -56,10 +56,10 @@ p{
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 20px; */
+line-height: 20px;
 /* identical to box height, or 143% */
 
-/* text-align: center;
+text-align: center;
 letter-spacing: 2px;
 text-transform: uppercase;
 
@@ -71,11 +71,14 @@ transform: translate(0,450px);
 font-style: normal;
 font-weight: 400;
 font-size: 54px;
-line-height: 59px; */
+line-height: 59px;
 /* identical to box height, or 110% */
 
-/* text-align: center;
+text-align: center;
 
 color: #FFFFFF;
 transform: translate(0,450px);
-} */
+}
+.p3{
+    transform: translate(0,460px);
+}

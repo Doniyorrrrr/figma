@@ -84,9 +84,9 @@ transform: translate(0,450px);
 .p3{
     transform: translate(0,460px);
 }
-.card{
+.ota_card{
     width: 1140px;
-    height: 1558px;
+    height: 1058px;
     background-color: black;
 }
 .p4{
@@ -115,4 +115,22 @@ text-align: center;
 color: #C0C0C0;
 
 padding: 20px;
+}
+.card{
+    transform: translate(170px);
+    
+}
+.img2{
+    margin-left: -20px;
+}
+.img3{
+    margin-left: 20px;
+}
+.img4{
+    margin-top: 25px;
+    margin-left: -20px;
+}
+.img5{
+    margin-top: 25px;
+    margin-left: 20px;
 }

@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background: #181818;
+}
 ul,ol{
     list-style: none;
 }
@@ -81,4 +83,36 @@ transform: translate(0,450px);
 }
 .p3{
     transform: translate(0,460px);
+}
+.card{
+    width: 1140px;
+    height: 1558px;
+    background-color: black;
+}
+.p4{
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 42px;
+    /* identical to box height, or 105% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.p5{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 30px;
+/* identical to box height, or 130% */
+
+text-align: center;
+
+color: #C0C0C0;
+
+padding: 20px;
 }
